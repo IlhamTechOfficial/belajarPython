@@ -1,0 +1,22 @@
+Sesi 1:
+1. Cara install Python 3.9.2 (windows).
+2. Cara install IDE VS Code.
+3. Print "Hello World"
+4. Print String (Ayat2)
+5. Belajar input
+6. Tukar input() dari string untul int dan float
+7. Belajar sikit matematik (round dan modulo)
+8. Lukis piramid dan satu emoji
+
+
+Sesi 2:
+1. Belajar buat function
+2. Pengenalan __name__ == '__main__'
+3. Call another function dari file lain
+4. Pengenalan Class
+5. Belajar def __init__(self) untuk initialize member variable
+6. buat function dalam class
+7. Call class function dari file lain
+
+
+Sesi 3:
